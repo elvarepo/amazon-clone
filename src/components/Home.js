@@ -15,17 +15,17 @@ function Home() {
             <div className="home__row">
                 <Product
                 id="123455"
-                title='The lean startup'
-                price={29.99}
-                image="https://images-na.ssl-images-amazon.com/images/I/51Zymoq7UnL._SX325_BO1,204,203,200_.jpg"
-                rating={3}
+                title='Divine Masters, Ancient Wisdom: Activations to Connect with Universal Spiritual Guides'
+                price={15.99}
+                image="https://images-na.ssl-images-amazon.com/images/I/51Oo01Y9JDL._SX359_BO1,204,203,200_.jpg"
+                rating={5}
                 />
                 <Product
-                id="49538094"
-                title="Kenwood kMix Stand Mixer for Baking, Stylish Kitchen Mixer with K-beater, Dough Hook and Whisk, 5 Litre Glass Bowl"
-                price={239.0}
+                id="49538095"
+                title="KitchenAid KMT2116ER 2 Slice Slot Toaster with High Lift Lever, Empire Red"
+                price={57.26}
                 rating={4}
-                image="https://images-na.ssl-images-amazon.com/images/I/81O%2BGNdkzKL._AC_SX450_.jpg"
+                image="https://m.media-amazon.com/images/I/51J2zh87c1L._AC_UL320_.jpg"
           />
             </div>
             <div className="home__row">
